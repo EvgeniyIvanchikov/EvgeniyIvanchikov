@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 <!--
 **EvgeniyIvanchikov/EvgeniyIvanchikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
