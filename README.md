@@ -1,10 +1,12 @@
 ### Hi there! 👋
 
-![EvgeniyIvanchikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniyIvanchikov&theme=dark&show_icons=true)
+<!--![EvgeniyIvanchikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniyIvanchikov&theme=dark&show_icons=true)
 
-
+<div id="header" align="center">
+  <img src="https://cdn.digitalbutlers.me/projects/torch-team-version/development/assets/images/giphy.webp" width="100"/>
+</div>
 **EvgeniyIvanchikov/EvgeniyIvanchikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
