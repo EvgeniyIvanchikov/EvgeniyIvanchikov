@@ -1,10 +1,6 @@
-<div id="header" align="" width="100%">
-  <img src="https://cdn.digitalbutlers.me/projects/torch-team-version/development/assets/images/giphy.webp" width="100"/>
-</div>
 <h1>
   Hey there 👋
 </h1>
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvgeniyIvanchikov&theme=dark)
 
