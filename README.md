@@ -2,7 +2,7 @@
   Hey there 👋
 </h1>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvgeniyIvanchikov&theme=vue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvgeniyIvanchikov)
 
 ---
 
