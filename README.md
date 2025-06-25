@@ -2,7 +2,7 @@
   Hey there 👋
 </h1>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvgeniyIvanchikov)
+[![GitHub Streak ]( https://github-readme-streak-stats-eight.vercel.app?user=EvgeniyIvanchikov&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🌐 Most used languages ✍️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniyIvanchikov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniyIvanchikov&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!--![EvgeniyIvanchikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniyIvanchikov&theme=dark&show_icons=true)
 
 **EvgeniyIvanchikov/EvgeniyIvanchikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
