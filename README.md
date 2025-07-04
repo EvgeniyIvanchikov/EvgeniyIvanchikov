@@ -1,5 +1,5 @@
 <h1>
-  Hey there 👋
+  Hi everybody 👋
 </h1>
 
 [![GitHub Streak ]( https://github-readme-streak-stats-eight.vercel.app?user=EvgeniyIvanchikov&theme=dark)](https://git.io/streak-stats)
